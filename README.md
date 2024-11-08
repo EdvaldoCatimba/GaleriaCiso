@@ -1,4 +1,4 @@
-- 👋 Hi, Eu sou o Edvaldo Catimba
+- 👋 Hi, Eu sou o Edvaldo Catimba Desktop
 <!---
 EdvaldoCatimba/EdvaldoCatimba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
